@@ -368,7 +368,7 @@ button:hover {
     margin-top: 0;
     text-align: center;
     padding-bottom: 30px;
-    font-weight: 800;
+    font-weight: 700;
     color: #fff;
 }
 
@@ -441,7 +441,7 @@ button:hover {
     margin-top: 30px;
     padding-bottom: 70px;
     color: #fff;
-    font-weight: 800;
+    font-weight: 700;
 }
 
 .gallery .container{
@@ -525,7 +525,7 @@ button:hover {
     padding-top: 8%;
     padding-bottom: 30px;
     color: #000;
-    font-weight: 800;
+    font-weight: 700;
     position: relative;
 }
 .facilities h1::after
