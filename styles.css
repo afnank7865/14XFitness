@@ -368,7 +368,7 @@ button:hover {
     margin-top: 0;
     text-align: center;
     padding-bottom: 30px;
-    
+    font-weight: 800;
     color: #fff;
 }
 
@@ -441,7 +441,7 @@ button:hover {
     margin-top: 30px;
     padding-bottom: 70px;
     color: #fff;
-    
+    font-weight: 800;
 }
 
 .gallery .container{
@@ -525,7 +525,7 @@ button:hover {
     padding-top: 8%;
     padding-bottom: 30px;
     color: #000;
-    
+    font-weight: 800;
     position: relative;
 }
 .facilities h1::after
@@ -639,20 +639,8 @@ button:hover {
     margin-top: 0;
     text-align: center;
     padding-bottom: 30px;
-    
-    color: #fff;
-}
-
-.contact h1::after
-{
-    content: '';
-    background: #e31c24;
-    width: 100px;
-    height: 5px;
-    position: absolute;
-    margin-top: 90px;
-    left: 50%;
-    transform: translateX(-50%);
+    font-weight: 800;
+    color: #e31c24;
 }
 
 .register .nav-tabs .nav-link:hover{
