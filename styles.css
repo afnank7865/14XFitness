@@ -25,7 +25,7 @@ html
 {
     height: 45px;
     width: 40px;
-    position: fixed;
+    position:fixed;
     left: 89%;
     top: 90%;
     background-color: #e31c24;
@@ -80,12 +80,12 @@ html
 
 .hamburger i {
     transition: 0.3s ease;
-    color: #fff:
+    color: #e31c24;
 }
 
 .hamburger i:hover{
     transition: 0.3s ease;
-    color: #e31c24;
+    color:#efefef;
 }
 
 /* Responsive Styles */
@@ -368,7 +368,7 @@ button:hover {
     margin-top: 0;
     text-align: center;
     padding-bottom: 30px;
-    font-weight: 700;
+    
     color: #fff;
 }
 
@@ -395,7 +395,7 @@ button:hover {
     width: 60%;
     margin-top: 50px;
     border-radius: 10px;
-    filter: drop-shadow(5px 5px 5px #222);
+    filter: drop-shadow(0px 0px 15px #575757);
 }
 
 .about box{
@@ -441,7 +441,7 @@ button:hover {
     margin-top: 30px;
     padding-bottom: 70px;
     color: #fff;
-    font-weight: 700;
+    
 }
 
 .gallery .container{
@@ -643,6 +643,8 @@ button:hover {
     color: #e31c24;
 }
 
+
+
 .register .nav-tabs .nav-link:hover{
     border: none;
 }
@@ -772,6 +774,10 @@ button:hover {
    margin: 4%;
     justify-items: center;
 }
+
+
+
+
 
 .footer .row .facebook{
     margin-left: 10%;
